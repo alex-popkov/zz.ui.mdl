@@ -12,6 +12,9 @@
 		"type": "git",
 		"url": "https://github.com/alex-popkov/zz.ui.mdl.git"
 	},
+	"publishConfig": {
+		"registry": "http://registry.npmjs.org/"
+	},
 	"dependencies": {
 
 	    "imazzine-developer-kit": ""
