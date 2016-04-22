@@ -1,0 +1,19 @@
+{
+	"name": "zz.ui.mdl",
+	"version": "20160422.0.0",
+	"description": "base zz.ui.mdl",
+	"author": {
+		"name": "Popkov Alexander",
+		"email": "popkov.aleksander@gmail.com"
+	},
+	"license": "Apache-2.0",
+    "homepage": "imazzine.com/idl/zz.ui.mdl/",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/alex-popkov/zz.ui.mdl.git"
+	},
+	"dependencies": {
+
+	    "imazzine-developer-kit": ""
+	}
+}
