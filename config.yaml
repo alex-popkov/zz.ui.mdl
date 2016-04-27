@@ -29,4 +29,4 @@ PATH:
   SCSS: 'scss'
 
   # Stylesheets (.gss) compiled files folder
-  CSS: '.css'
+  CSS: '_css'
