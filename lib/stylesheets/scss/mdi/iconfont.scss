@@ -9,7 +9,7 @@
 @font-face {
   font-family: 'FontAwesome';
   src: local('FontAwesome'),
-  url(/lib/resources/fonts/awesome/fontawesome-webfont.woff2);
+  url(/lib/resources/fonts/awesome/fontawesome-webfont.woff2) format('woff2');
 }
 .material-icons {
 

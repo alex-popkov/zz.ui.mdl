@@ -9616,7 +9616,7 @@ iframe.heightSet {
 
 @font-face {
   font-family: 'FontAwesome';
-  src: local("FontAwesome"), url(/lib/resources/fonts/awesome/fontawesome-webfont.woff2); }
+  src: local("FontAwesome"), url(/lib/resources/fonts/awesome/fontawesome-webfont.woff2) format("woff2"); }
 
 .material-icons {
   font-family: 'Material Icons'; }
