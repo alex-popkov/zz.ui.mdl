@@ -6,9 +6,22 @@
     local('MaterialIcons-Regular'),
     url(/lib/resources/fonts/iconfont/MaterialIcons-Regular.woff2) format('woff2');
 }
-
+@font-face {
+  font-family: 'FontAwesome';
+  src: local('FontAwesome'),
+  url(/lib/resources/fonts/awesome/fontawesome-webfont.woff2);
+}
 .material-icons {
+
   font-family: 'Material Icons';
+}
+.awesome-icons {
+
+  font-family: 'FontAwesome';
+}
+.material-icons,
+.awesome-icons {
+
   font-weight: normal;
   font-style: normal;
   font-size: 24px;
